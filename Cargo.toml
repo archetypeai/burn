@@ -226,7 +226,7 @@ burn-wgpu = { path = "crates/burn-wgpu", version = "0.22.0-pre.1", default-featu
 cubecl = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "414efa2854a9db22ff8ef4a027ea4638c86d95af" }
 cubecl-common = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "414efa2854a9db22ff8ef4a027ea4638c86d95af" }
 cubecl-zspace = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "414efa2854a9db22ff8ef4a027ea4638c86d95af" }
-cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "bcd3e298c1fe8e444fc23ba5d6c48a07597d8eb7" }
+cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "ed8981d11e79374ff01124ba2c76ce2745181dc5" }
 ### For local development. ###
 # cubecl = { path = "../cubecl/crates/cubecl", default-features = false }
 # cubecl-common = { path = "../cubecl/crates/cubecl-common", default-features = false }
