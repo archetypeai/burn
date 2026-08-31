@@ -222,11 +222,11 @@ burn-vision = { path = "crates/burn-vision", version = "=0.22.0-pre.3", default-
 burn-wgpu = { path = "crates/burn-wgpu", version = "=0.22.0-pre.3", default-features = false }
 
 ### For the main burn branch. ###
-cubecl = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
-cubecl-common = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
-cubecl-environment = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
-cubecl-zspace = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
-cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "131a2f9b119491b79cb4568eac9890835285b63b" }
+cubecl = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "deb4f633f93cc58afa2092d6d919bb6560e96109" }
+cubecl-common = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "deb4f633f93cc58afa2092d6d919bb6560e96109" }
+cubecl-environment = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "deb4f633f93cc58afa2092d6d919bb6560e96109" }
+cubecl-zspace = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "deb4f633f93cc58afa2092d6d919bb6560e96109" }
+cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "704bb6f5029d141fbcbee11bfbb902534f30e1d8" }
 ### For local development. ###
 # cubecl = { path = "../cubecl/crates/cubecl", default-features = false }
 # cubecl-common = { path = "../cubecl/crates/cubecl-common", default-features = false }
