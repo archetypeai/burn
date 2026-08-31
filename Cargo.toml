@@ -226,7 +226,7 @@ cubecl = { git = "https://github.com/archetypeai/cubecl", default-features = fal
 cubecl-common = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
 cubecl-environment = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
 cubecl-zspace = { git = "https://github.com/archetypeai/cubecl", default-features = false, rev = "a8ed1129fbddb7dd8f73e3b2c609a28d35390f66" }
-cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "4397bb2198cd4eddf498ba6308061804cd1d4e55" }
+cubek = { git = "https://github.com/archetypeai/cubek", default-features = false, rev = "131a2f9b119491b79cb4568eac9890835285b63b" }
 ### For local development. ###
 # cubecl = { path = "../cubecl/crates/cubecl", default-features = false }
 # cubecl-common = { path = "../cubecl/crates/cubecl-common", default-features = false }
